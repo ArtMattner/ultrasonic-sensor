@@ -7,12 +7,12 @@ Um den Sensor nutzen zu können muss eine Schaltung gebaut werden um das Eingang
 # Schaltplan
 Hier der Schaltplan dazu, der im [Online](https://www.circuit-diagram.org/editor/) erstellt wurde:
 
-![[circuit_hc-sr04_raspi.png]]
+![circuit](circuit_hc-sr04_raspi.png)
 
 # Breadboard Schaltung
 
 Hier die Schaltung auf dem Breadboard zusammen mit dem Raspi:
-![[breadbord_hs-sr04_raspi.jpg]]
+![breadboard](breadbord_hs-sr04_raspi.jpg)
 
 # Python Code
 
